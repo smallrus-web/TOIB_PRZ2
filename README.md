@@ -1,4 +1,5 @@
 # Практическая работа №2. Индентификация и аутентификация.
+___
 Создадим суперпользователя  admin
 ![Screenshot_1](https://github.com/smallrus-web/prz2/assets/71121962/ecd8d5aa-006c-41a0-a9c3-bbd3a4e877a8)
 
