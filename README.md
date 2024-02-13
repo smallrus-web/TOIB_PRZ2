@@ -5,10 +5,7 @@ ___
 
 ## Создадим группу BBMO и добавим в нее суперпользователя admin
 ![Screenshot_2](https://github.com/smallrus-web/prz2/assets/71121962/92ba33b4-e101-4d0e-a787-72cac2450e22)
-
-text
-
-
+## Создадим обычного пользователь guests и добавим его в группу BBMO
 ![Screenshot_3](https://github.com/smallrus-web/prz2/assets/71121962/496c17e5-0e25-401d-a2a9-5d75549b9c0d)
 text
 
