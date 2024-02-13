@@ -3,7 +3,7 @@ ___
 ## Создадим суперпользователя  admin
 ![Screenshot_1](https://github.com/smallrus-web/prz2/assets/71121962/ecd8d5aa-006c-41a0-a9c3-bbd3a4e877a8)
 
-
+## Создадим группу BBMO
 ![Screenshot_2](https://github.com/smallrus-web/prz2/assets/71121962/92ba33b4-e101-4d0e-a787-72cac2450e22)
 
 text
